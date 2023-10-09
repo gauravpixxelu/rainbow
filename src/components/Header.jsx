@@ -220,10 +220,9 @@ const Header = () => {
                                     <div className="col-md-12">
                                         <div className="header-btns">
                                             <ul>
-                                                <li><NavLink className="custom-btn green transparent" to="https://www.curtina.in/_web/FrmfindTC.aspx" target="_blank"><span><FontAwesomeIcon icon={faFileLines} /> Search TC</span></NavLink></li>
-                                                <li><NavLink className="custom-btn green transparent" to="https://www.curtina.in/_mobile/login.aspx?AppId=RIS" target="_blank"><span><FontAwesomeIcon icon={faUser} /> Student Login</span></NavLink></li>
-                                                <li><NavLink className="custom-btn green transparent" to="https://www.curtina.in/ris/forms/frmAlumni_AE_JQ.aspx" target="_blank"><span><FontAwesomeIcon icon={faUserGraduate} /> Enroll Alumni</span></NavLink></li>
-                                                <li><NavLink className="custom-btn green transparent" to="https://www.curtina.in/RIS/forms/frmStdPayOnline.aspx" target="_blank"><span><FontAwesomeIcon icon={faIndianRupeeSign} /> Pay Fee</span></NavLink></li>
+                                                <li><NavLink className="custom-btn green transparent color1" to="https://www.curtina.in/_web/FrmfindTC.aspx" target="_blank"><span><FontAwesomeIcon icon={faFileLines} /> Search TC</span></NavLink></li>
+                                                <li><NavLink className="custom-btn green transparent color2" to="https://www.curtina.in/_mobile/login.aspx?AppId=RIS" target="_blank"><span><FontAwesomeIcon icon={faUser} /> Student Login</span></NavLink></li>
+                                                <li><NavLink className="custom-btn green transparent color3" to="https://www.curtina.in/ris/forms/frmAlumni_AE_JQ.aspx" target="_blank"><span><FontAwesomeIcon icon={faUserGraduate} /> Enroll Alumni</span></NavLink></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -239,6 +238,7 @@ const Header = () => {
                                     </div>
                                     <div className="col-md-8">
                                         <div className="header-nav">
+                                            <NavLink className="custom-btn pay" to="https://www.curtina.in/RIS/forms/frmStdPayOnline.aspx" target="_blank"><span><FontAwesomeIcon icon={faIndianRupeeSign} /> Pay Fee</span></NavLink>
                                             <nav className="navbar navbar-expand-lg">
                                                 <button
                                                     className={`navbar-toggler ${isMobileMenuOpen ? 'collapsed' : ''}`}
@@ -256,7 +256,7 @@ const Header = () => {
                                                     className={`collapse navbar-collapse ${isMobileMenuOpen ? 'show' : ''}`}
                                                     id="navbarSupportedContent"
                                                 >
-
+                                                    <NavLink to="/"><img src="images/logo.jpg" alt="logo" /></NavLink>
                                                     <ul className="navbar-nav">
                                                         <li className="nav-item">
                                                             <NavLink className="nav-link" to="/">Home</NavLink>
@@ -316,10 +316,10 @@ const Header = () => {
                                                             </ul>
                                                         </li>
                                                         <li className="nav-item">
-                                                            <NavLink className="nav-link dropdown-toggle" to="/activities">International Endeavour <FontAwesomeIcon icon={faChevronDown} /></NavLink>
+                                                            <NavLink className="nav-link dropdown-toggle" to="#" role="button" aria-expanded="false">International Endeavour <FontAwesomeIcon icon={faChevronDown} /></NavLink>
                                                             <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                                                 <li>
-                                                                    <NavLink className="dropdown-item dropdown-toggle" to="/international-exchange"><span>International Exchange </span></NavLink>
+                                                                    <NavLink className="dropdown-item dropdown-toggle" to="#" role="button" aria-expanded="false"><span>International Exchange </span></NavLink>
                                                                     <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                                                         <li>
                                                                             <NavLink className="dropdown-item" to="/microsoft"><span>Microsoft</span></NavLink>
@@ -335,6 +335,15 @@ const Header = () => {
                                                             </ul>
                                                         </li>
                                                         <li className="nav-item">
+                                                            <NavLink className="nav-link" to="/alumni">Alumni</NavLink>
+                                                        </li>
+                                                        <li className="nav-item">
+                                                            <NavLink className="nav-link" to="/transport">Transport</NavLink>
+                                                        </li>
+                                                        <li className="nav-item">
+                                                            <NavLink className="nav-link" to="/special-features">Special Features</NavLink>
+                                                        </li>
+                                                        <li className="nav-item">
                                                             <NavLink className="nav-link" to="/gallery">Gallery</NavLink>
                                                         </li>
                                                         <li className="nav-item">
@@ -342,7 +351,8 @@ const Header = () => {
                                                         </li>
                                                         <li className="nav-item">
                                                             <NavLink className="nav-link" to="/contact">Contact</NavLink>
-                                                        </li>                                                        
+                                                        </li>
+
                                                     </ul>
                                                 </div>
                                             </nav>
