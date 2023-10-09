@@ -1,0 +1,454 @@
+@media screen and (max-width:767px) {
+
+    html {
+        font-size: 50% !important;
+    }
+    .container {
+        padding: 0 1.5rem;
+    }
+    h2.big-hdng {
+        font-size: 4.4rem;
+    }
+    h2.hdng-h2 {
+        font-size: 3.6rem;
+    }
+    .marquee span {
+        font-size: 4.4rem;
+    }
+    .phn-detail {
+        display: none;
+    }
+    .custom-btn.green.transparent {
+        padding: 0.5rem 1rem;
+    }
+    .header-logo img {
+        width: 10rem;
+    }
+    .activity-slider {
+        padding: 0 0 5rem;
+    }
+    h4.hdng-h4 {
+        font-size: 1.8rem;
+        letter-spacing: 0.1rem;
+    }
+    section.who-we-are .col-md-7 {
+        padding-left: 0;
+    }
+    .event-block img {
+        width: 100%;
+    }
+    .site-header {
+        display: none;
+    }
+    .mobile-header {
+        display: block;
+    }
+    .ReactModal__Overlay .ReactModal__Content {
+        width: 90%;
+        padding: 1rem !important;
+    }
+    .ReactModal__Overlay .ReactModal__Content iframe {
+        height: 30rem;
+    }
+    .mobile-header .header-block .header-info .top-header {
+        padding: 1rem 0;
+    }
+    .mobile-header .header-block .header-info .top-header ul {
+        justify-content: space-between;
+        gap: .5rem;
+    }
+    .mobile-header .header-block .header-info .bottom-header {
+        padding: 0;
+    }  
+    .tabs-gallery .slick-prev {
+        left: -1.5rem;
+    }
+    .tabs-gallery .slick-next {
+        right: -1.5rem;
+    }
+    body .react-multiple-carousel__arrow::before {
+        font-size: 1.6rem;
+    }
+    .mobile-header .header-block .header-info .bottom-header .row {
+        display: flex;
+        flex-wrap: inherit;
+    }  
+    .alumni-cnt.head {
+        grid-template-columns: repeat(1,1fr);
+    }
+    .staff-block .alumni-cnt {
+        grid-template-columns: repeat(3,1fr);
+    }
+    .modal-open img {
+        width: 95%;
+    }
+    .modal-open button.react-responsive-modal-closeButton {
+        top: 4rem;
+        right: 4rem;
+        padding: 0;
+    } 
+    .mobile-header .header-block .header-info .bottom-header img {
+        width: 10rem;
+    }
+    .who-txt .who-txt-block {
+        padding: 2rem;
+    }
+    .vision-txt-block, .mission-txt-block {
+        padding: 3rem;
+        margin: 3rem 0;
+        margin-left: 1rem;
+    }
+    .vision-img-block {
+        padding-left: 1rem;
+    }
+    section.who-we-are {
+        padding: 5rem 0;
+    }
+    .testimonial-cnt img {
+        width: 90%;
+    }
+    .awards-slider .slick-arrow {
+        top: auto;
+        right: 0;
+        left: 0 !important;
+        margin: auto !important;
+        bottom: -8rem;
+    }
+    .school-txt.bottom {
+        position: relative;
+        transform: rotate(0);
+        right: 0;
+        top: 0;
+        text-align: center;
+        padding: 2rem 0;
+    }
+    .school:after, .school:before {
+        display: none;
+    }
+    .school-txt.top {
+        position: relative;
+        transform: rotate(0);
+        right: 0;
+        top: 0;
+        text-align: center;
+        padding: 2rem 0;
+        left: 0;
+    }
+    .pdf-content embed {
+        width: 100%;
+    }
+    .school-txt {
+        text-align: center;
+    }
+    .arrows {
+        display: none;
+    }
+    section.awards {
+        padding: 5rem 0 8rem;
+    }
+    .arrows .a1, .arrows .a2, .arrows .a3 {
+        width: 2rem;
+    }
+    .awards-slider .slick-arrow.slick-next {
+        right: -4rem;
+    }
+    .awards-hdng {
+        text-align: center;
+    }
+    .news {
+        padding: 5rem 0;
+    }
+    .facts .results {
+        padding: 2rem;
+    }
+    .box-result {
+        margin-bottom: 2rem;
+    }
+    .survey {
+        margin-top: 3rem;
+    }
+    .facts .results .react-multi-carousel-list {
+        margin-top: 3rem;
+    }
+    .news-box {
+        margin-bottom: 2rem;
+    }
+    .site-footer .col {
+        border-bottom: 0.1rem solid rgb(255 255 255 / 20%);
+        padding: 2rem;
+    }
+    .site-footer .col:nth-child(2), .site-footer .col:nth-child(4) {
+        border-left: 0.1rem solid rgb(255 255 255 / 20%);
+    }
+    .footer-bottom {
+        border-top: 0;
+        padding: 1rem 0;
+        text-align: center;
+    }
+    .footer-bottom p.copyright {
+        text-align: center;
+    }
+    .site-footer .col:nth-child(2), .site-footer .col:nth-child(3), .site-footer .col:nth-child(4), .site-footer .col:nth-child(5) {
+        flex: 0 0 50%;
+    }
+    .announcement-hdng h3 {
+        font-size: 2rem;
+    }
+    .counter-box-cnt h4 {
+        font-size: 2.6rem;
+    }
+    .counter-box .counter-box-icon img {
+        width: 5rem;
+    }
+    .counter-box {
+        gap: 1.5rem;
+    }
+    .testimonial-block {
+        margin: 0rem 1rem;
+    }
+    .school-txt h3.hdng-h3.text-uppercase {
+        font-size: 2.4rem;
+    }
+    .school-txt h3.hdng-h3 {
+        font-size: 2.2rem;
+    }
+    .school-banner p {
+        font-size: 1.8rem;
+        max-width: 40rem;
+    }
+    .school .col-md-6 {
+        padding: 2rem 0;
+        border: 0;
+    }
+    .mobile-header .header-block .header-info .bottom-header .row .col-md-4, .mobile-header .header-block .header-info .bottom-header .row .col-md-8 {
+        width: 50%;
+    }
+    .header-nav nav.navbar {
+        justify-content: end;
+    }
+    .site-header .navbar-collapse {
+        z-index: 9999;
+        min-height: 100vh;
+        left: 0;
+        position: fixed;
+        top: 0;
+        transform: translateX(-32rem) !important;
+        width: 32rem !important;
+        margin: 0;
+        background: #000;
+        transition: 0.2s;
+    }
+    .site-header .navbar-collapse.show { 
+        transform: translateX(0) !important;
+    }
+    .site-header .navbar-collapse > ul.navbar-nav > li.nav-item > a.nav-link {
+        min-height: auto;
+        color: #fff;
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+    .site-header .navbar-collapse .navbar-nav li.nav-item a:before {
+        display: none;
+    }
+    .site-header .navbar button.navbar-toggler {
+        padding: 0;
+        border: 0;
+        box-shadow: 0 0 0 0 #fff;
+        outline: 0;
+    }
+    .navbar-toggler span.navbar-toggler-icon:before {
+        content: '';
+        width: 2rem;
+        height: 0.3rem;
+        background: #f56200;
+        position: absolute;
+        bottom: -1rem;
+        left: 0;
+        border-radius: 1rem;
+    }
+    .navbar-toggler span.navbar-toggler-icon:after {
+        content: '';
+        width: 3rem;
+        height: 0.3rem;
+        background: #f56200;
+        position: absolute;
+        top: -1rem;
+        left: 0;
+        border-radius: 1rem;
+    }
+    .site-header .navbar .navbar-toggler[aria-expanded="true"] span.navbar-toggler-icon {
+        transform: rotate(45deg);
+        width: 3.5rem;
+    }
+    .site-header .navbar .navbar-toggler[aria-expanded="true"] span.navbar-toggler-icon:before {
+        transform: rotate(90deg);
+        width: 3.5rem;
+        top: 0;
+    }
+    .site-header .navbar .navbar-toggler[aria-expanded="true"] span.navbar-toggler-icon:after {
+        display: none;
+    }
+    .navbar-toggler span.navbar-toggler-icon {
+        width: 3.5rem;
+        height: 0.3rem;
+        background: #f56200;
+        border-radius: 1rem;
+        position: relative;
+        transition: 0.2s;
+    }
+    .site-header .navbar-collapse .navbar-nav li.nav-item {
+        padding: 1rem 2rem;
+        flex-wrap: wrap;
+    }
+    .navbar-nav li:hover > ul.dropdown-menu {
+        top: 1rem;
+        min-width: 100%;
+        width: 100%;
+        position: relative;
+    }
+    .navbar-nav li:hover > ul.dropdown-menu li a.dropdown-item {
+        padding: 1rem;
+    }
+    section.overview {
+        padding: 1.5rem 0;
+        margin-top: 0;
+    }
+    .adminssion-box {
+        padding: 2rem;
+        margin-right: 0;
+    }
+    .fb-page.fb_iframe_widget span, .fb-page.fb_iframe_widget iframe {
+        width: 100% !important;
+    }
+    .fb_iframe_widget_fluid {
+        display: block;
+        margin-top: 3rem;
+    }
+    .card-box p {
+        font-size: 1.8rem;
+    }
+    .card-box h5 {
+        font-size: 3rem;
+        font-weight: 700;
+        margin-bottom: 1rem;
+    }
+    .hover-box .hover-box-img img {
+        height: 29rem;
+    }
+    .curri.curri-2 {
+        grid-template-columns: repeat(1,1fr);
+    }
+    .apply-cnt {
+        max-width: 100%;
+        padding: 0 3rem;
+    }
+    .apply .col-md-6:last-child {
+        height: 40rem;
+    }
+    .video-icon {
+        width: 10rem;
+    }
+    .card-box {
+        padding: 3rem;
+        margin-bottom: 2rem;
+    }
+    .overview-box {
+        padding: 2rem 1rem;
+    }
+    .houses-box {
+        margin-bottom: 2rem;
+    }
+    .school-houses {
+        padding: 2rem 0;
+    }
+    section.academics-banner img, section.about-banner img {
+        height: 30rem;
+        object-fit: cover;
+    }
+    .houses-hdng {
+        max-width: 100%;
+        margin: 0 auto 2rem;
+    }
+    .curri {
+        grid-template-columns: repeat(1,1fr);
+        grid-row-gap: 1rem;
+    }
+    .alumni-cnt {
+        grid-template-columns: repeat(2,1fr);
+        grid-row-gap: 1rem;
+    }
+    .overview-box p.para-18 {
+        font-size: 1.4rem;
+    }
+    .overview-box h2.hdng-h2 {
+        font-size: 3rem;
+        margin-bottom: 0.5rem;
+    }
+    .process-app .row:after {
+        display: none;
+    }
+    .process-app .process-box {
+        margin-bottom: 5rem;
+    }
+    .process-app {
+        padding: 3rem 0 0;
+    }
+    .pre-app-box {
+        flex-wrap: wrap;
+        gap: 2rem;
+    }
+    .adm-form {
+        padding: 2rem;
+        max-width: 100%;
+        margin: 2rem auto 0;
+    }
+    .contact-form { 
+        padding: 2rem;
+    }
+    .contact-detail .detail-box {
+        padding: 2rem;
+    }
+    .contact-detail {
+        margin-bottom: 2rem;
+    }
+    .map-box iframe {
+        height: 30rem;
+    }
+    .activity-slider .slick-arrow.slick-next {
+        right: -1rem;
+    }
+    .activity-slider .slick-arrow.slick-prev {
+        left: -1rem;
+        z-index: 9;
+    }
+
+
+}
+
+
+@media screen and (min-width:1200px) and (max-width:1550px) {
+    
+    html {
+        font-size: 60% !important;
+    }
+    .pdf-calender embed {
+        height: 105rem;
+    }
+    .container {
+        padding: 0 7.5rem;
+    }
+    .vision-txt-block {
+        min-height: auto;
+    }
+    .header-nav .navbar ul li.nav-item ul.dropdown-menu li ul.dropdown-menu {
+        right: -17rem;
+    }
+    .header-nav .navbar ul li.nav-item a {
+        font-size: 1.4rem;
+    }   
+    .ReactModal__Overlay .ReactModal__Content.banner-web {
+        width: 60rem;
+    }
+
+}
