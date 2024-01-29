@@ -2376,3 +2376,14 @@ section.pre-app {
     width: 50%;
     margin: 0 auto;
 }
+
+.staff-block .alumni-cnt.hdgfn {
+    display: flex;
+    justify-content: center;
+}
+.staff-block .alumni-cnt.hdgfn img {
+    width: auto;
+}
+.staff-block .alumni-cnt.hdgfn .alumni-box {
+    width: 300px;
+}
