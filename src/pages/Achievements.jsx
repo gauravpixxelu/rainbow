@@ -285,7 +285,7 @@ function Achievements() {
                                 <li><FontAwesomeIcon icon={faGem} />Anmol Mishra bagged 3rd position in IBM AI Online Competition at National Level.</li>
                                 <li><FontAwesomeIcon icon={faGem} />Virtual Events celebration such as Independence day,Raksha Bandhan,Janmashtami,Teachers day,Science Fair ,Hindi Divas , English and Maths Olympiads etc.</li>
                                 <li><FontAwesomeIcon icon={faGem} />Anushka Sharma bagged first position in German Spell bee International C ompetition in "Deutsch Utsav".</li>
-                                <li><FontAwesomeIcon icon={faGem} />Ram Deshwal bagged 3rd  position in Digital Kinder University Championship at South Asia organised by Goithe Institute.</li>
+                                <li><FontAwesomeIcon icon={faGem} />Ram Deshwal bagged 3rd  position in Digital Kinder University Championship at South Asia organised by Goethe Institut.</li>
                                 <li><FontAwesomeIcon icon={faGem} />Appreciable performance of Rainbow ATL Kids in National All Rounder Championship.</li>
                             </ul>
                         </div>
@@ -294,11 +294,11 @@ function Achievements() {
                             <h2 className="hdng-h4">SESSION 2022-2023</h2>
                             <ul className="gem-box">
                                 <li><FontAwesomeIcon icon={faGem} />School hosted the programme “meet the champion’’ interaction with renowned olympians saikhom mirabai chanu (silver medalist, tokyo olympics-2020) and rani rampal captain india women's hockey team in school premises on 8th march 2022.</li>
-                                <li><FontAwesomeIcon icon={faGem} />Ram deshwal and vedic kashyap scored ist and 2nd position in jun and sen category in international german declamation carnival and won a cash prize of 5oo uro.</li>
+                                <li><FontAwesomeIcon icon={faGem} />Ram Deshwal and Vedic Kashyap scored 1st and 2nd position in Junior and Senior Catagory in "German Carnival-International German Declamation"and won cash prize of 500 Euro.</li>
                                 <li><FontAwesomeIcon icon={faGem} />School accredited with microsoft showcase award for second time.</li>
                                 <li><FontAwesomeIcon icon={faGem} />School accredited thrice with ids award from british council.</li>
-                                <li><FontAwesomeIcon icon={faGem} />German teacher mr. Ravindra represented the school in international german teacher conference in vienna university.</li>
-                                <li><FontAwesomeIcon icon={faGem} />Five students participated in “ deutschutsav” conducted by mayo college, ajmer in collaboration with goethe institute  new delhi.</li>
+                                <li><FontAwesomeIcon icon={faGem} />German Teacher Mr Ravindra represented the school in IDT- International German Teacher's Conference in Vienna University.</li>
+                                <li><FontAwesomeIcon icon={faGem} />Five students participated in " Deutschutsav "conducted by Mayo College,Ajmer in collaboration with Goethe-Institut New Delhi.</li>
                                 <li><FontAwesomeIcon icon={faGem} />Exemplary performance by rainbowites in vivekananda g.K. Examination.</li>
                                 <li><FontAwesomeIcon icon={faGem} />Rainbowites proved their mettle by bagging positions in 30th district children level science congress.</li>
                                 <li><FontAwesomeIcon icon={faGem} />Cabridge basec learning assessment english has been introduced to meet the international standards of professional english.</li>

@@ -2372,3 +2372,7 @@ section.pre-app {
 .acheviement-session-inner:last-child {
     border: 0;
 }
+.row.staff-german {
+    width: 50%;
+    margin: 0 auto;
+}

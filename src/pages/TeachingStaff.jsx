@@ -295,10 +295,7 @@ function TeachingStaff() {
                             <h4>Mr. Mool raj </h4>
                         </div>
 
-                        <div className="alumni-box">
-                            <img src="images/staff-images/PRT/ranjit-kumar-yadav.jpg" alt="Teacher_Img" />
-                            <h4>Mr. ranjit kumar yadav</h4>
-                        </div>
+
 
                         <div className="alumni-box">
                             <img src="images/staff-images/PRT/anjana.jpg" alt="Teacher_Img" />
@@ -435,10 +432,7 @@ function TeachingStaff() {
                             <h4>Ms. kavita guleria</h4>
                         </div>
 
-                        <div className="alumni-box">
-                            <img src="images/staff-images/PRT/ravindra.jpg" alt="Teacher_Img" />
-                            <h4>Mr. ravindra </h4>
-                        </div>
+
 
                         <div className="alumni-box">
                             <img src="images/staff-images/PRT/ankush-mehra.jpg" alt="Teacher_Img" />
@@ -496,7 +490,35 @@ function TeachingStaff() {
             {/* ----- Alumni ----- */}
 
 
-        </div>
+            {/* ----- Alumni ----- */}
+            <section className="staff-block staff-even">
+                <div className="container">
+                    <h2 className="hdng-h2">German Language Department</h2>
+                    <div className='row staff-german'>
+                        <div className="col-md-6">
+                            <div className="alumni-box">
+                                <img src="images/staff-images/PRT/ravindra.jpg" alt="Teacher_Img" />
+                                <h4>Mr. Ravindra Singh</h4>
+                                <p>P.G.T German & Head of the German Department M.A German Distinction (Gold Medalist), B.ed</p>
+                            </div>
+                        </div>
+                        <div className="col-md-6">
+                            <div className="alumni-box">
+                                <img src="images/staff-images/PRT/ranjit-kumar-yadav.jpg" alt="Teacher_Img" />
+                                <h4>Mr. ranjit kumar yadav</h4>
+                                <p>B.A German</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section >
+            {/* ----- Alumni ----- */}
+
+
+        </div >
+
+
+
 
     )
 }
