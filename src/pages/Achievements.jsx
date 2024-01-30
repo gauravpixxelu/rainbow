@@ -297,7 +297,7 @@ function Achievements() {
                                 <li><FontAwesomeIcon icon={faGem} />Ram Deshwal and Vedic Kashyap scored 1st and 2nd position in Junior and Senior Catagory in "German Carnival-International German Declamation"and won cash prize of 500 Euro.</li>
                                 <li><FontAwesomeIcon icon={faGem} />School accredited with microsoft showcase award for second time.</li>
                                 <li><FontAwesomeIcon icon={faGem} />School accredited thrice with ids award from british council.</li>
-                                <li><FontAwesomeIcon icon={faGem} />German Teacher Mr Ravindra represented the school in IDT- International German Teacher's Conference in Vienna University.</li>
+                                <li><FontAwesomeIcon icon={faGem} />German Teacher Mr Ravindra represented the school in IDT- International German Teacher's Conference in Vienna University.</li>
                                 <li><FontAwesomeIcon icon={faGem} />Five students participated in " Deutschutsav "conducted by Mayo College,Ajmer in collaboration with Goethe-Institut New Delhi.</li>
                                 <li><FontAwesomeIcon icon={faGem} />Exemplary performance by rainbowites in vivekananda g.K. Examination.</li>
                                 <li><FontAwesomeIcon icon={faGem} />Rainbowites proved their mettle by bagging positions in 30th district children level science congress.</li>
