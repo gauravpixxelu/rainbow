@@ -59,6 +59,8 @@ const PressReview = () => {
 
 
   const images = [
+    "images/press-images/press-img50.jpg",
+    "images/press-images/press-img51.jpg",
     "images/press-images/press-img46.jpg",
     "images/press-images/press-img47.jpg",
     "images/press-images/press-img48.jpg",
@@ -112,6 +114,7 @@ const PressReview = () => {
     "images/press-images/press-img38.jpg",
     "images/press-images/press-img39.jpg",
     "images/press-images/press-img40.jpg",
+    
   ];
 
   return (
