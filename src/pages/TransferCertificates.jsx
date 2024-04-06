@@ -35,7 +35,116 @@ function TransferCertificates() {
 
             <section className="pdf-calender">
                 <div className="container">
-                    <embed src="pdf/transfer-certificates.pdf" type="application/pdf" width="70%" height="1500px" />
+                    <div className="row">
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc1.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc2.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc3.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc4.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc5.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc6.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc7.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc8.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc9.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc10.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc11.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc12.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc13.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc14.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc15.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc16.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc17.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc18.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc19.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc20.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc21.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc22.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc23.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc24.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc25.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc26.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                        <div className="col-md-6">
+                            <embed src="pdf/tc/tc27.pdf" type="application/pdf" width="100%" height="800px" />
+                        </div>
+
+                    </div>
                 </div>
             </section>
 

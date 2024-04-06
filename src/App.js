@@ -32,6 +32,7 @@ import Admissions from "./pages/Admissions";
 import Microsoft from "./pages/Microsoft";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import TransferCertificates from "./pages/TransferCertificates.jsx";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 AOS.init({
@@ -100,6 +101,7 @@ function App() {
           <Route path="/cbse-mandatory" element={<CbseMandatory />} />
           <Route path="/british-council" element={<BritishCouncil />} />
           <Route path="/microsoft" element={<Microsoft />} />
+          <Route path="/transfer-certificate" element={<TransferCertificates />} />          
         </Routes>
         <Footer />
         <ReactModal className="banner-web" isOpen={isBannerOpen} onRequestClose={() => setIsBannerOpen(false)} ariaHideApp={false} contentLabel="Admission Form Modal" >
