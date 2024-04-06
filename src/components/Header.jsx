@@ -133,6 +133,9 @@ const Header = () => {
                                                                 <li>
                                                                     <NavLink className="dropdown-item" to="/datesheets"><span>Datesheets</span></NavLink>
                                                                 </li>
+                                                                <li>
+                                                                    <NavLink className="dropdown-item" to="/transfer-certificate"><span>Transfer Certificates</span></NavLink>
+                                                                </li>
                                                             </ul>
                                                         </li>
                                                         <li className="nav-item">
